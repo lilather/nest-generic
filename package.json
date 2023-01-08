@@ -1,5 +1,5 @@
 {
-  "name": "nest-typescript-starter",
+  "name": "y",
   "private": true,
   "version": "1.0.0",
   "description": "Nest TypeScript starter repository",
@@ -68,5 +68,18 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilather/nestjs-typescript-starter-clean.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/lilather/nestjs-typescript-starter-clean/issues"
+  },
+  "homepage": "https://github.com/lilather/nestjs-typescript-starter-clean#readme"
 }
